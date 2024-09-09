@@ -29,7 +29,7 @@ let dots = {
 
 function preload() {
 
-  img = loadImage('background.JPG');
+  img = loadImage('background.png');
   load_dots('cloud');
 
 }
