@@ -1,0 +1,2 @@
+echo "urls relative to here"
+python3 -m http.server
