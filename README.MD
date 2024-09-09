@@ -23,6 +23,9 @@ I run a python httpd: ./httpd.
 
 It wants:
 
-	* pg/weather/`background.png`
-	* make the folder p5/weather/cloud, and put your moving-dot-images in it: *.jpg
-	* make the index.txt: `cd p5/weather/cloud; ls -1 *.jpg > index.txt`
+* pg/weather/`background.png`
+* make the folder p5/weather/cloud, and put your moving-dot-images in it: *.jpg
+* make the index.txt: `cd p5/weather/cloud; ls -1 *.jpg *.png > index.txt`
+
+Now run a local http-server (in `somewhereuseful`). And open a browser window to it.
+
